@@ -1,5 +1,5 @@
 # ctf_roadmap
-Những trải nghiệm học thực tế và CTF roadmap
+CTF roadmap và quá trình cày cuốc
 
 T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):
 
