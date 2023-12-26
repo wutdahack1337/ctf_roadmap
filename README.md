@@ -7,7 +7,7 @@ T là một người xuất phát từ lập trình thi đấu, t bắt đầu t
 CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp thở đéy ~~
 - **Scripting**: C, Python, Bash.
 - **Number bases**: Binary, Octa, Hex.
-- **Linux commands**: 
+- **Linux commands**
 - **Networking**
 - **Web**
 
@@ -18,4 +18,10 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **XOR**
 - **Base64**
 - **RSA**
-- **Python** (t tiếp cận một số đề trên picoCTF, hackthebox,... t thấy chủ yếu là dạng: cho một file tin nhắn, và cho một file thuật toán được sử dụng để mã hóa tin nhắn đó, t phải đọc hiểu file thuật toán để t có thể giải mã được tin nhắn, và chủ yếu file thuật toán được viết bằng python)
+- **Python** - t tiếp cận một số đề trên picoCTF, hackthebox,... t thấy chủ yếu là dạng: cho một file tin nhắn và file thuật toán sử dụng để mã hóa tin nhắn, t phải đọc hiểu file thuật toán để t có thể viết script giải mã tin nhắn đó, và chủ yếu đề cho file thuật toán được viết bằng python.
+
+## 3. Web Exploitation:
+- **HTML, CSS, JavaScript**
+- **Networking Protocols**: HTTP, HTTPS.
+- **Cookie-based authentication, Jason web token**
+- Còn tiếp...
