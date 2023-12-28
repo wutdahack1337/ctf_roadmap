@@ -25,7 +25,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Networking Protocols**: HTTP, HTTPS. ✅
 - **Cookie-based authentication, Jason web token** ✅
 - **Inspect Element**
-- **Robots.txt**
+- **Robots.txt** ✅
 - **Burp Suite**
 - **Databases, SQL**
 - **SQL injection, SQL map**
