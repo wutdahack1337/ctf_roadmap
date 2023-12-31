@@ -7,7 +7,7 @@ T là một người xuất phát từ lập trình thi đấu, t bắt đầu t
 CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp thở đéy ~~
 - **Scripting**: C, Python, Bash. ✅
 - **Number bases**: Binary, Octa, Hex. ✅
-- **Linux commands** - Kali Linux✅
+- **Linux commands** - Kali Linux ✅
 - **Networking** ✅
 - **Web** ✅
 
