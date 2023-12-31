@@ -1,8 +1,8 @@
 # ctf_roadmap
 CTF roadmap và quá trình cày cuốc
 
-T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được cho đến hiện tại, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):
-Độ thông thạo của t được chia thành 3 cấp độ: ✅; ✅✅ và ✅✅✅
+T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được cho đến hiện tại, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):   
+Độ thông thạo của t được chia thành 3 cấp độ: Biết: ✅; Hiểu: ✅✅ và Vận dụng: ✅✅✅
 ## 1. Kiến thức cơ bản phải biết:
 CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp thở đéy ~~
 - **Scripting**: C, Python, Bash. ✅
@@ -24,10 +24,10 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **HTML, CSS, JavaScript**
 - **Networking Protocols**: HTTP, HTTPS. ✅
 - **Cookie-based authentication, Jason web token** ✅
-- **Inspect Element**
+- **Inspect Element** ✅
 - **Robots.txt** ✅
-- **Burp Suite**
-- **Databases, SQL**
+- **Burp Suite** ✅
+- **Databases, SQL** ✅
 - **SQL injection, SQL map**
 - **XSS**
 - **Remote Code Execution**
@@ -36,7 +36,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Server side & client side authentication**
 
 ## 4. Reverse Engineering:
-- **C/C++** ✅
+- **C/C++** ✅✅
 - **Java**
 - **Assembly**
 - **PE file format**
