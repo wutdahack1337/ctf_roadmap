@@ -11,7 +11,7 @@ CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp
 - **Networking** ✅
 - **Web** ✅
   
-Sau khi tìm hiểu những cái này thì t đã có thể dọc phá một số thứ cơ bản trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được nhiều thứ từ những nền tảng này.
+Sau khi tìm hiểu những cái này thì t đã có thể làm được một số thử thách general skills trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được rất nhiều thứ từ những nền tảng này.
 
 ## 2. Cryptography:
 Phải hiểu rõ bản chất của từng loại mã hóa
