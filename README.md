@@ -9,7 +9,8 @@ CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp
 - **Number bases**: Binary, Octa, Hex. ✅
 - **Linux commands** - Kali Linux ✅
 - **Networking** ✅
-- **Web** ✅   
+- **Web** ✅
+  
 Sau khi tìm hiểu những cái này thì t đã có thể dọc phá một số thứ cơ bản trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoCTF](https://picoctf.org/) và t cũng đã học hỏi được nhiều thứ từ những nền tảng này.
 
 ## 2. Cryptography:
