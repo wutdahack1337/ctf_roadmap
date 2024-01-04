@@ -1,8 +1,8 @@
 # ctf_roadmap
 CTF roadmap và quá trình cày cuốc
 
-T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được cho đến hiện tại, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):   
-✅ (biet), ✅✅ (hieu) và ✅✅✅ (van dung);
+T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, mục tiêu của t là **ASCIS**, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được cho đến hiện tại, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):   
+✅ (biết), ✅✅ (hiểu) và ✅✅✅ (vận dụng);
 ## 1. Kiến thức cơ bản phải biết:
 CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp thở đéy ~~
 - **Scripting**: C, Python, Bash. ✅
