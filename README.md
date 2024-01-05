@@ -63,4 +63,4 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Python**
 
 ## 7. Bổ sung:
-- **[Làm an toàn thông tin thì học gì?](https://vnhacker.blogspot.com/2012/05/lam-toan-thong-tin-thi-hoc-gi.html)**
+- **[Làm an toàn thông tin thì học gì?](https://vnhacker.substack.com/p/lam-toan-thong-tin-thi-hoc-gi)**
