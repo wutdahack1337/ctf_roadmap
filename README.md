@@ -61,3 +61,6 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **How processes work like RAM**
 - **Memory exploitation**
 - **Python**
+
+## 7. Bổ sung:
+- **[Làm an toàn thông tin thì học gì?](https://vnhacker.blogspot.com/2012/05/lam-toan-thong-tin-thi-hoc-gi.html)**
