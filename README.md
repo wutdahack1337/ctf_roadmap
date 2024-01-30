@@ -3,12 +3,13 @@ CTF roadmap và quá trình cày cuốc
 
 T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, mục tiêu của t là **ASCIS**, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được cho đến hiện tại, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):   
 ✅ (biết), ✅✅ (hiểu) và ✅✅✅ (vận dụng);
-## 1. Kiến thức cơ bản phải biết:
-CƠ BẢN thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp thở đéy ~~
+## 1. The Fundamental Skills:
+FUNDAMENTAL thôi nhé!!! Chưa cần đi quá sâu đâu, không thì bị ngộp thở đéy ~~
+- **Basic computer skills**: môn Nền tảng công nghệ thông tin, CompTIA A+.
 - **Scripting**: C, Python, Bash. ✅
 - **Number bases**: Binary, Octa, Hex. ✅
 - **Linux commands** - Kali Linux ✅
-- **Networking** ✅
+- **Networking skills**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches, VLANs, OSI model, MAC addressing, ARP, SMB, SNMP.
 - **Web** ✅
   
 Sau khi tìm hiểu những cái này thì t đã có thể làm được một số thử thách general skills trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được rất nhiều thứ từ những nền tảng này.
