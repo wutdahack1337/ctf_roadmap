@@ -68,3 +68,4 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **[Tóm lại học là, học an toàn thông tin bắt đầu từ đâu?](https://blog.cyberjutsu.io/2021/08/09/hoc-an-toan-thong-tin/)** 
 - **[Làm an toàn thông tin thì học gì?](https://vnhacker.substack.com/p/lam-toan-thong-tin-thi-hoc-gi)**
 - **[Bắt đầu học an toàn thông tin như thế nào?](https://l4w.io/2017/07/bat-dau-hoc-an-toan-thong-tin-nhu-the-nao/)**
+- **[Hackers-Arise](https://www.hackers-arise.com/)**
