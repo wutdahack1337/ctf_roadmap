@@ -3,17 +3,17 @@ CTF roadmap và quá trình cày cuốc
 
 T là một người xuất phát từ lập trình thi đấu, t bắt đầu tự học chơi ctf từ hồi tháng 7/2023, mục tiêu của t là **ASCIS**, sau vài tháng bơi trong biển kiến thức, t tự muốn lập ra một cái roadmap để nhìn nhận lại những gì mà t đã học được cho đến hiện tại, roadmap này được sắp xếp từ dễ đến khó (tất nhiên là theo quan điểm của t):   
 ✅ (biết), ✅✅ (hiểu) và ✅✅✅ (vận dụng);
+
 ## 1. The Fundamental Skills:
-FUNDAMENTAL!!! Chưa đi quá sâu, nếu không sẽ bị ngộp thở ~~
-- **Basic computer skills**: môn Nền tảng công nghệ thông tin, CompTIA A+.
+FUNDAMENTAL!!! Chưa cần đi quá sâu, nếu không sẽ bị ngộp thở ~~
+- **Basic computer skills**: học phần Nền tảng công nghệ thông tin, CompTIA A+.
 - **Scripting**: C, Python, Bash. ✅
 - **Number bases**: Binary, Octa, Hex. ✅
 - **Networking skills**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches, VLANs, OSI model, MAC addressing, ARP, SMB, SNMP.
 - **Virtualization**
 - **Linux skills** - Kali Linux: commands, tools, know how to use the man command,... ✅
 - **Web** ✅
-  
-Sau khi tìm hiểu những cái này thì t đã có thể làm được một số challenge general skills trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được rất nhiều thứ từ những nền tảng này.
+- **Bonus**: Sau khi tìm hiểu những cái này thì t đã có thể làm được một số challenge general skills trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được rất nhiều thứ từ những nền tảng này.
 
 ## 2. Cryptography:
 Phải hiểu rõ bản chất của từng loại mã hóa
@@ -65,7 +65,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Memory exploitation**
 - **Python**
 
-## 7. Bổ sung:
+## 7. Bonus:
 - **[Tóm lại học là, học an toàn thông tin bắt đầu từ đâu?](https://blog.cyberjutsu.io/2021/08/09/hoc-an-toan-thong-tin/)** 
 - **[Làm an toàn thông tin thì học gì?](https://vnhacker.substack.com/p/lam-toan-thong-tin-thi-hoc-gi)**
 - **[Bắt đầu học an toàn thông tin như thế nào?](https://l4w.io/2017/07/bat-dau-hoc-an-toan-thong-tin-nhu-the-nao/)**
