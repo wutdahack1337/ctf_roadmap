@@ -38,6 +38,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Fuzzing**: Dirbuster, GoBuster, Dirb
 - **Local File Inclusion**
 - **Server side & client side authentication**
+- **Bonus**: [PortSwigger](https://portswigger.net/web-security)
 
 ## 4. Reverse Engineering:
 - **C/C++** ✅✅
