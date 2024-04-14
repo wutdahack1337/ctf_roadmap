@@ -52,7 +52,13 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Linux internals & Windows internals**
 - **Tools**: Ghira, IDA Pro, Binary Ninja, Radare2.
 
-## 5. Forensics: 
+## 5. Binary Exploitation:
+- **Buffer Overflows**
+- **How processes work like RAM**
+- **Memory exploitation**
+- **Python**
+
+## 6. Forensics: 
 - **File extensions & file types**
 - **Metada & Exiftools**
 - **NTFS & FAT32 formats**
@@ -60,12 +66,6 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Disk imaging**
 - **Wireshark packets**
 - **Steghide, stegcracker, stegsolve, openstego, zsteg, jsteg**.
-
-## 6. Binary Exploitation:
-- **Buffer Overflows**
-- **How processes work like RAM**
-- **Memory exploitation**
-- **Python**
 
 ## 7. Bonus:
 - **[Tóm lại học là, học an toàn thông tin bắt đầu từ đâu?](https://blog.cyberjutsu.io/2021/08/09/hoc-an-toan-thong-tin/)** 
