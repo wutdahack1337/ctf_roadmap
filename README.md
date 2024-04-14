@@ -33,12 +33,13 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Robots.txt** ✅
 - **Burp Suite** ✅
 - **Databases** ✅
+- **Server side & client side authentication**
 - **SQL injection, SQL map**
 - **XSS**
 - **Remote Code Execution**
 - **Fuzzing**: Dirbuster, GoBuster, Dirb
 - **Local File Inclusion**
-- **Server side & client side authentication**
+
 - **Bonus**: [PortSwigger](https://portswigger.net/web-security)
 
 ## 4. Reverse Engineering:
