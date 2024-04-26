@@ -13,7 +13,7 @@ FUNDAMENTAL!!! Chưa cần đi quá sâu, nếu không sẽ bị ngộp thở ~~
 - **Networking skills**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches, VLANs, OSI model, MAC addressing, ARP, SMB, SNMP.
 - **Virtualization**
 - **Linux skills** - Kali Linux: commands, tools, know how to use the man command,... ✅
-- **Web** ✅
+- **General website knowledge** ✅
 - **Bonus**: Sau khi tìm hiểu những cái này thì t đã có thể làm được một số challenge general skills trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được rất nhiều thứ từ những nền tảng này.
 
 ## 2. Cryptography:
