@@ -60,7 +60,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 
 ## 6. Forensics: 
 - **File extensions & file types**
-- **Metada & Exiftools**
+- **Metadata & Exiftools**
 - **NTFS & FAT32 formats**
 - **LSB Steganography**
 - **Disk imaging**
