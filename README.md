@@ -10,7 +10,7 @@ FUNDAMENTAL!!! Chưa cần đi quá sâu, nếu không sẽ bị ngộp thở ~~
 - **Basic computer skills**: học phần Nền tảng công nghệ thông tin, CompTIA A+.
 - **Scripting**: C, Python, Bash. ✅
 - **Number bases**: Binary, Octa, Hex. ✅
-- **Networking skills**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches, VLANs, OSI model, MAC addressing, ARP, SMB, SNMP.
+- **Networking skills**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches ✅, VLANs, OSI model ✅, MAC addressing, ARP, SMB, SNMP.
 - **Virtualization**
 - **Linux skills** - Kali Linux: commands, tools, know how to use the man command,... ✅
 - **General website knowledge** ✅
