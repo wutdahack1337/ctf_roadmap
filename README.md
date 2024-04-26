@@ -27,11 +27,11 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 
 ## 3. Web Exploitation:
 - **HTML, CSS, JavaScript** ✅
+- **Inspect Element** ✅
 - **Networking Protocols**: HTTP, HTTPS. ✅
 - **Cookie-based authentication, Jason web token** ✅
-- **Inspect Element** ✅
-- **Robots.txt** ✅
 - **Burp Suite** ✅
+- **Robots.txt** ✅
 - **Databases** ✅
 - **Server side & client side authentication**
 - **SQL injection, SQL map**
