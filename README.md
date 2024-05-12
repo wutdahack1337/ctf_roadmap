@@ -7,7 +7,7 @@ Cứ lâu lâu xem lại roadmap này mà thêm được 1 dấu ✅ thì cũng 
 
 ## 1. The Fundamental Skills:
 FUNDAMENTAL!!! Chưa cần đi quá sâu, nếu không sẽ bị ngộp thở ~~
-- **Basic computer skills**: học phần Nền tảng công nghệ thông tin, CompTIA A+.
+- **General computer knowledge**: CompTIA A+.
 - **Scripting**: C, Python, Bash. ✅
 - **Number bases**: Binary, Octa, Hex. ✅
 - **Networking skills**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches ✅, VLANs, OSI model ✅, MAC addressing, ARP, SMB, SNMP.
