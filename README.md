@@ -25,7 +25,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Frequency analysis**
 - **Python** - t tiếp cận một số đề trên picoCTF, hackthebox,... t thấy chủ yếu là dạng: cho một file tin nhắn và file thuật toán sử dụng để mã hóa tin nhắn, t phải đọc hiểu file thuật toán để t có thể viết script giải mã tin nhắn đó, và chủ yếu đề cho file thuật toán được viết bằng python.
 
-## 3. Web Exploitation:
+## 3. Web:
 - **HTML, CSS, JavaScript** ✅
 - **Inspect Element** ✅
 - **Networking Protocols**: HTTP, HTTPS. ✅
