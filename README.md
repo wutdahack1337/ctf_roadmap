@@ -34,7 +34,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Robots.txt** ✅
 - **Databases** ✅
 - **Server side & client side authentication**
-- **SQL injection, SQL map**
+- **SQL injection, SQLmap**
 - **XSS**
 - **Remote Code Execution**
 - **Fuzzing**: Dirbuster, GoBuster, Dirb
