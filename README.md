@@ -34,7 +34,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Robots.txt** ✅
 - **Databases** ✅
 - **Server side & client side authentication**
-- **SQL injection, SQLmap**
+- **SQL injection ✅, SQLmap tool**
 - **XSS**
 - **Remote Code Execution**
 - **Fuzzing**: Dirbuster, GoBuster, Dirb
@@ -43,9 +43,9 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **Bonus**: [PortSwigger](https://portswigger.net/web-security)
 
 ## 4. Reverse Engineering:
-- **C/C++** ✅✅
+- **C/C++** ✅
 - **Java**
-- **Assembly**
+- **Assembly** ✅
 - **PE file format**
 - **ELF binary format**
 - **System calls**
@@ -60,7 +60,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 
 ## 6. Forensics: 
 - **File extensions & file types**
-- **Metadata & Exiftools**
+- **Metadata & Exiftools** ✅
 - **NTFS & FAT32 formats**
 - **LSB Steganography**
 - **Disk imaging**
