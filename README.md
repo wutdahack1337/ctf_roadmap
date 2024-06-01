@@ -7,11 +7,11 @@ Cứ lâu lâu xem lại roadmap này mà thêm được 1 dấu ✅ thì cũng 
 
 ## 1. The Fundamental Skills:
 FUNDAMENTAL!!! Chưa cần đi quá sâu, nếu không sẽ bị ngộp thở ~~
-- **General computer knowledge**: CompTIA A+.
+- **General computer knowledge**: CompTIA A+, CT200 (Nền tảng Công nghệ thông tin) ✅.
 - **Scripting**: C, Python, Bash. ✅
 - **Number bases**: Binary, Octa, Hex. ✅
 - **Networking**: DHCP ✅, NAT, Subnetting, IPv4 ✅, IPv6, Public v Private IP ✅, DNS ✅, Routers and switches ✅, VLANs, OSI model ✅, MAC addressing, ARP, SMB, SNMP.
-- **Virtualization**
+- **Virtualization** ✅
 - **Linux skills** - Kali Linux: commands, tools, know how to use the man command, [cmdchallenge.com](https://cmdchallenge.com),... ✅
 - **General website knowledge** ✅
 - **Bonus**: Sau khi tìm hiểu những cái này thì t đã có thể làm được một số challenge general skills trên [tryhackme](https://tryhackme.com/), [hackthebox](https://academy.hackthebox.com/), [picoctf](https://picoctf.org/) và t cũng đã học hỏi được rất nhiều thứ từ những nền tảng này.
