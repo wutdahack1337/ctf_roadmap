@@ -50,7 +50,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **ELF binary format**
 - **System calls**
 - **Linux internals & Windows internals**
-- **Tools**: Ghira, IDA Pro, Binary Ninja, Radare2.
+- **Tools**: Ghidra, IDA Pro, Binary Ninja, Radare2.
 
 ## 5. Binary Exploitation:
 - **Buffer Overflows**
