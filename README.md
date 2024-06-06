@@ -24,6 +24,7 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **MD5**
 - **Frequency analysis**
 - **Python** - t tiếp cận một số đề trên picoCTF, hackthebox,... t thấy chủ yếu là dạng: cho một file tin nhắn và file thuật toán sử dụng để mã hóa tin nhắn, t phải đọc hiểu file thuật toán để t có thể viết script giải mã tin nhắn đó, và chủ yếu đề cho file thuật toán được viết bằng python.
+- **Bonus**: [CryptoHack](https://cryptohack.org/)
 
 ## 3. Web:
 - **HTML, CSS, JavaScript** ✅
@@ -51,13 +52,13 @@ Phải hiểu rõ bản chất của từng loại mã hóa
 - **System calls**
 - **Linux internals & Windows internals**
 - **Tools**: Ghidra, IDA Pro, Binary Ninja, Radare2.
-
+- **Bonus**: [pwn.college](https://pwn.college)
 ## 5. Binary Exploitation:
 - **Buffer Overflows**
 - **How processes work like RAM**
 - **Memory exploitation**
 - **Python**
-
+- **Bonus**: [pwn.college](https://pwn.college)
 ## 6. Forensics: 
 - **File extensions & file types**
 - **Metadata & Exiftools** ✅
